@@ -1,1 +1,1 @@
-# go_-exercises
+# go_exercises
